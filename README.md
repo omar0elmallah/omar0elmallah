@@ -1,24 +1,24 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,30:071A2D,55:0B3550,75:075985,100:06B6D4&text=OMAR%20ELMALLAH&fontSize=54&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&desc=SOFTWARE%20DEVELOPER%20%E2%80%A2%20AI%20%E2%80%A2%20FULL-STACK&descAlignY=60&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,15:030712,30:071A2D,45:0B2942,60:075985,75:0891B2,90:06B6D4,100:22D3EE&text=OMAR%20ELMALLAH&fontSize=58&fontColor=FFFFFF&fontAlignY=36&animation=twinkling&desc=SOFTWARE%20DEVELOPER%20%E2%80%A2%20AI%20%E2%80%A2%20FULL-STACK%20%E2%80%A2%20BUILDER&descAlignY=59&descSize=18"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2300&pause=700&color=22D3EE&center=true&vCenter=true&width=850&lines=Building+software+with+Python.;Exploring+AI+and+machine+learning.;Creating+modern+web+experiences.;Turning+ideas+into+working+products."/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=1800&pause=550&color=22D3EE&center=true&vCenter=true&width=950&lines=HELLO%2C+I'M+OMAR.;I+BUILD+SOFTWARE.;I+EXPLORE+AI.;I+DESIGN+WEB+EXPERIENCES.;I+AUTOMATE+THINGS.;I+TURN+IDEAS+INTO+PROJECTS.;AND+THEN+I+BUILD+THE+NEXT+ONE."/>
 
 <br><br>
 
 <a href="https://github.com/omar0elmallah">
 <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-&nbsp;
+
 <a href="mailto:omar.elmallah2011@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=omar0elmallah&style=flat-square&color=06B6D4&label=PROFILE%20VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=omar0elmallah&style=for-the-badge&color=22D3EE&label=PROFILE%20VIEWS"/>
 
 </div>
 
@@ -26,125 +26,118 @@
 
 <div align="center">
 
-### `WELCOME TO MY DIGITAL WORKSPACE`
+# `╭─ OMAR.EXE ─╮`
 
-<br>
-
-<table>
-<tr>
-
-<td align="center" width="180">
-
-**01**
-
-<br>
-
-🧠
-
-<br>
-
-`THINK`
-
-</td>
-
-<td align="center" width="180">
-
-**02**
-
-<br>
-
-⚙️
-
-<br>
-
-`BUILD`
-
-</td>
-
-<td align="center" width="180">
-
-**03**
-
-<br>
-
-🧪
-
-<br>
-
-`EXPERIMENT`
-
-</td>
-
-<td align="center" width="180">
-
-**04**
-
-<br>
-
-🚀
-
-<br>
-
-`SHIP`
-
-</td>
-
-</tr>
-</table>
+```text id="0w3b2m"
+┌────────────────────────────────────────────────────────────────────┐
+│                                                                    │
+│   USER       : OMAR ELMALLAH                                      │
+│   LOCATION   : EGYPT                                              │
+│   ROLE       : SOFTWARE DEVELOPER                                 │
+│                                                                    │
+│   FOCUS      : SOFTWARE / AI / WEB / AUTOMATION / DATA            │
+│   MODE       : BUILDING                                           │
+│   STATUS     : ONLINE                                             │
+│                                                                    │
+│   ─────────────────────────────────────────────────────────────    │
+│                                                                    │
+│   "The best way to learn software is to build software."          │
+│                                                                    │
+└────────────────────────────────────────────────────────────────────┘
+```
 
 </div>
 
 ---
 
-# 👨‍💻 About
+# `01` — 👋 ABOUT ME
 
-I'm **Omar Elmallah**, a developer from Egypt interested in **software engineering, AI, web development, automation, and data**.
+I'm **Omar Elmallah**, a developer from Egypt interested in building software across multiple areas.
 
-I enjoy building things that start as an idea and gradually become real software.
+My interests include:
 
-My projects range from applications and web platforms to AI experiments, developer tools, automation, and data projects.
+* 🤖 Artificial Intelligence
+* 🐍 Python development
+* 🌐 Full-stack web development
+* ⚙️ Automation
+* 📊 Data analysis
+* 🧠 Machine learning
+* 🖥️ Desktop software
+* 🔧 Developer tools
+* 🧪 Experimental projects
 
-> **I learn by building.**
+I like projects that start small and grow into something much bigger.
+
+```text
+IDEA
+ ↓
+PROTOTYPE
+ ↓
+BUILD
+ ↓
+BREAK
+ ↓
+DEBUG
+ ↓
+IMPROVE
+ ↓
+SHIP
+```
 
 ---
 
-# ⚡ Current Focus
+# `02` — ⚡ CURRENTLY
 
 <div align="center">
 
 <table>
 <tr>
 
-<td width="33%" align="center">
+<td width="25%" align="center">
 
-### 🧠 Artificial Intelligence
+## 🧠
 
-Machine Learning
-AI Applications
-Model Integrations
-Experiments
+**LEARNING**
 
-</td>
-
-<td width="33%" align="center">
-
-### 🌐 Full-Stack
-
-Frontend
-Backend
-APIs
-Databases
+AI
+ML
+Software Engineering
 
 </td>
 
-<td width="33%" align="center">
+<td width="25%" align="center">
 
-### ⚙️ Software
+## ⚙️
 
-Python
-Automation
+**BUILDING**
+
+Applications
+Web Apps
 Tools
-Optimization
+
+</td>
+
+<td width="25%" align="center">
+
+## 🧪
+
+**EXPERIMENTING**
+
+Models
+Automation
+Systems
+
+</td>
+
+<td width="25%" align="center">
+
+## 🚀
+
+**SHIPPING**
+
+Real Projects
+Interfaces
+Products
 
 </td>
 
@@ -155,7 +148,7 @@ Optimization
 
 ---
 
-# 🚀 Featured Projects
+# `03` — 🚀 FEATURED PROJECTS
 
 <div align="center">
 
@@ -164,36 +157,36 @@ Optimization
 
 <td width="50%" align="center">
 
-## 🦝 Racoon Office
+# 🦝 Racoon Office
 
-<img src="https://img.shields.io/badge/LIVE-06B6D4?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/ACTIVE-00D9FF?style=for-the-badge&labelColor=020617"/>
 
 <br><br>
 
-Current project
+Current project.
 
 <br><br>
 
 <a href="https://racoon-office.vercel.app/">
-<img src="https://img.shields.io/badge/EXPLORE-FFFFFF?style=for-the-badge&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/OPEN%20RACOON%20OFFICE-00D9FF?style=for-the-badge&labelColor=050505"/>
 </a>
 
 </td>
 
 <td width="50%" align="center">
 
-## R-AKUN
+# R-AKUN
 
-<img src="https://img.shields.io/badge/LIVE-8B5CF6?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/ACTIVE-8B5CF6?style=for-the-badge&labelColor=020617"/>
 
 <br><br>
 
-Current project
+Current project.
 
 <br><br>
 
 <a href="https://r-akun.vercel.app/">
-<img src="https://img.shields.io/badge/EXPLORE-FFFFFF?style=for-the-badge&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/OPEN%20R--AKUN-8B5CF6?style=for-the-badge&labelColor=050505"/>
 </a>
 
 </td>
@@ -205,42 +198,173 @@ Current project
 
 ---
 
-# 🧪 Project Archive
+# `04` — 🧩 PROJECT UNIVERSE
 
 <div align="center">
 
-| Project                    |           Area          |
-| :------------------------- | :---------------------: |
-| **DoVertor**               |     Desktop Software    |
-| **Nexus AI**               | Artificial Intelligence |
-| **TAMING**                 |   Software / Products   |
-| **TAOSP**                  |    Systems / Software   |
-| **FC Mobile Fans**         |     Web Development     |
-| **Data Analysis Projects** |   Python / SQL / Data   |
-| **AI Experiments**         |     AI / Automation     |
-| **Developer Tools**        |   Software / Utilities  |
+<table>
+
+<tr>
+
+<td width="33%" valign="top">
+
+## 🧰 DoVertor
+
+Desktop software and file-processing development.
+
+`Python`
+
+`Desktop`
+
+`Utilities`
+
+</td>
+
+<td width="33%" valign="top">
+
+## 🤖 Nexus AI
+
+AI-focused experimentation and intelligent software.
+
+`AI`
+
+`Python`
+
+`APIs`
+
+</td>
+
+<td width="33%" valign="top">
+
+## 🏢 TAMING
+
+Technology and software ecosystem experiments.
+
+`Software`
+
+`Products`
+
+`Web`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33%" valign="top">
+
+## ⚙️ TAOSP
+
+Operating-system and software experimentation.
+
+`Systems`
+
+`Software`
+
+`Experiments`
+
+</td>
+
+<td width="33%" valign="top">
+
+## 🎮 FC Mobile Fans
+
+Web development and interactive experiences.
+
+`Web`
+
+`JavaScript`
+
+`Interactive`
+
+</td>
+
+<td width="33%" valign="top">
+
+## 📊 Data Projects
+
+Data cleaning, SQL, Python analysis and visualization.
+
+`Python`
+
+`SQL`
+
+`Data`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33%" valign="top">
+
+## 🧠 AI Experiments
+
+Small AI systems and model experiments.
+
+`Machine Learning`
+
+`AI`
+
+`Automation`
+
+</td>
+
+<td width="33%" valign="top">
+
+## 🛠️ Developer Tools
+
+Utilities created to make development easier.
+
+`Tools`
+
+`Automation`
+
+`Python`
+
+</td>
+
+<td width="33%" valign="top">
+
+## 🧪 Experimental Lab
+
+Random ideas that become actual projects.
+
+`Prototype`
+
+`Research`
+
+`Build`
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
 
 ---
 
-# 🛠️ Technology
+# `05` — 🛠️ TECHNOLOGY
 
 <div align="center">
 
-### Languages
+## LANGUAGES
 
 <img src="https://skillicons.dev/icons?i=python,js,html,css,c,cpp,bash"/>
 
 <br><br>
 
-### Frameworks & Web
+## WEB
 
 <img src="https://skillicons.dev/icons?i=flask,nodejs,react,tailwind,bootstrap"/>
 
 <br><br>
 
-### AI / Data
+## AI
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
 
@@ -250,13 +374,13 @@ Current project
 
 <br><br>
 
-### Databases
+## DATABASES
 
 <img src="https://skillicons.dev/icons?i=firebase,mysql,sqlite,mongodb"/>
 
 <br><br>
 
-### Tools
+## TOOLS
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,windows,docker,figma,postman"/>
 
@@ -264,47 +388,141 @@ Current project
 
 ---
 
-# 🧬 Developer Stack
+# `06` — 🧬 THE STACK
 
-<div align="center">
-
-```text id="y4s0cy"
-                 OMAR / STACK
-                       │
-          ┌────────────┼────────────┐
-          │            │            │
-       SOFTWARE       AI          WEB
-          │            │            │
-       Python       PyTorch      React
-       C / C++     ML / Data     Flask
-       Tools       Models        APIs
-          │            │            │
-          └────────────┼────────────┘
-                       │
-                   DATABASES
-                       │
-              Firebase / SQL / SQLite
+```text id="mwhcqs"
+                         ┌───────────────┐
+                         │     OMAR      │
+                         └───────┬───────┘
+                                 │
+              ┌──────────────────┼──────────────────┐
+              │                  │                  │
+              ▼                  ▼                  ▼
+         SOFTWARE              AI                 WEB
+              │                  │                  │
+        ┌─────┼─────┐      ┌─────┼─────┐      ┌─────┼─────┐
+        │     │     │      │     │     │      │     │     │
+     Python  C/C++ Tools  ML   Models APIs   HTML  JS   CSS
+        │                  │                  │
+        └──────────┬───────┴──────────┬───────┘
+                   │                  │
+                   ▼                  ▼
+               DATABASES          AUTOMATION
+                   │                  │
+                   └────────┬─────────┘
+                            ▼
+                         PROJECTS
 ```
-
-</div>
 
 ---
 
-# ✨ Development Mode
+# `07` — 🧠 AREAS OF INTEREST
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=1700&pause=500&color=34D399&center=true&vCenter=true&width=750&lines=%5BSYSTEM%5D+BOOTING...;%5BOK%5D+PYTHON;%5BOK%5D+AI;%5BOK%5D+WEB;%5BOK%5D+DATABASES;%5BOK%5D+AUTOMATION;%5BOK%5D+GIT;%5BSYSTEM%5D+READY."/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-22D3EE?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-8B5CF6?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/Software%20Engineering-0EA5E9?style=for-the-badge&labelColor=020617"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2500&pause=700&color=22D3EE&center=true&vCenter=true&width=700&lines=STATUS%3A+BUILDING;MODE%3A+EXPERIMENTAL;NEXT%3A+SHIP+SOMETHING+USEFUL"/>
+<img src="https://img.shields.io/badge/Full--Stack-06B6D4?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/Automation-10B981?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/Data-7C3AED?style=for-the-badge&labelColor=020617"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Desktop%20Software-F59E0B?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/Developer%20Tools-EC4899?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/Systems-64748B?style=for-the-badge&labelColor=020617"/>
 
 </div>
 
 ---
 
-# 📊 GitHub Analytics
+# `08` — ⚙️ DEVELOPMENT TERMINAL
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=1600&pause=450&color=34D399&center=true&vCenter=true&width=850&lines=%24+boot+omar.exe;%3E+loading+projects...;%3E+loading+python...;%3E+loading+ai...;%3E+loading+web...;%3E+loading+ideas...;%5BOK%5D+SYSTEM+READY."/>
+
+</div>
+
+```text id="k6t2r4"
+╭──────────────────────────────────────────────────────────────╮
+│                     DEVELOPMENT CONSOLE                      │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  PYTHON         ████████████████████████████████             │
+│  JAVASCRIPT     ████████████████████████████░░░░             │
+│  AI             ███████████████████████████░░░░░             │
+│  WEB            █████████████████████████████░░              │
+│  DATA           ████████████████████████░░░░░░░              │
+│  AUTOMATION     ██████████████████████████░░░░░              │
+│                                                              │
+│  STATUS: ONLINE                                               │
+│  MODE  : BUILD                                                │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
+```
+
+---
+
+# `09` — 🔬 HOW I WORK
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="20%" align="center">
+
+### 01
+
+**IDEA**
+
+</td>
+
+<td width="20%" align="center">
+
+### 02
+
+**RESEARCH**
+
+</td>
+
+<td width="20%" align="center">
+
+### 03
+
+**BUILD**
+
+</td>
+
+<td width="20%" align="center">
+
+### 04
+
+**TEST**
+
+</td>
+
+<td width="20%" align="center">
+
+### 05
+
+**SHIP**
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# `10` — 📊 GITHUB ANALYTICS
 
 <div align="center">
 
@@ -326,75 +544,191 @@ alt="GitHub Streak"/>
 
 ---
 
-# 🐍 Contribution Activity
+# `11` — 🐍 CONTRIBUTION SNAKE
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/omar0elmallah/omar0elmallah/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+<img
+src="https://raw.githubusercontent.com/omar0elmallah/omar0elmallah/output/github-contribution-grid-snake.svg"
+alt="Contribution Snake"/>
 
 </div>
 
 ---
 
-# 📈 Activity Graph
+# `12` — 📈 ACTIVITY GRAPH
 
 <div align="center">
 
 <img
 width="95%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=omar0elmallah&bg_color=0d1117&color=22d3ee&line=06b6d4&point=ffffff&area=true&hide_border=true"
-alt="GitHub Activity Graph"/>
+src="https://github-readme-activity-graph.vercel.app/graph?username=omar0elmallah&bg_color=0d1117&color=22d3ee&line=06b6d4&point=ffffff&area=true&hide_border=true&custom_title=OMAR%20ELMALLAH%20%E2%80%94%20ACTIVITY"
+alt="GitHub Activity"/>
 
 </div>
 
 ---
 
-# 🌐 Find Me
+# `13` — 🏆 GITHUB TROPHIES
+
+<div align="center">
+
+<img
+src="https://github-profile-trophy.vercel.app/?username=omar0elmallah&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"
+alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+# `14` — 🌱 CURRENTLY EXPLORING
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center">
+
+🤖
+**AI**
+
+</td>
+
+<td align="center">
+
+🧠
+**ML**
+
+</td>
+
+<td align="center">
+
+🌐
+**WEB**
+
+</td>
+
+<td align="center">
+
+⚙️
+**AUTOMATION**
+
+</td>
+
+<td align="center">
+
+📊
+**DATA**
+
+</td>
+
+<td align="center">
+
+🖥️
+**SOFTWARE**
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2500&pause=800&color=94A3B8&center=true&vCenter=true&width=750&lines=Learning+something+new+every+day.;Exploring+new+tools.;Building+better+systems.;Keeping+the+lab+alive."/>
+
+</div>
+
+---
+
+# `15` — 📡 DIGITAL PRESENCE
 
 <div align="center">
 
 <a href="https://github.com/omar0elmallah">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-OMAR0ELMALLAH-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="mailto:omar.elmallah2011@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://x.com/Omar_elmallah11">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/omar_elmalah2000/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-OMAR.ELMALLAH2011%40GMAIL.COM-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
 
-<a href="https://www.facebook.com/profile.php?id=61560552246254">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+<a href="https://x.com/Omar_elmallah11">
+<img src="https://img.shields.io/badge/X-OMAR__ELMALLAH11-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
+<a href="https://www.instagram.com/omar_elmalah2000/">
+<img src="https://img.shields.io/badge/Instagram-OMAR__ELMALAH2000-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/profile.php?id=61560552246254">
+<img src="https://img.shields.io/badge/Facebook-OMAR%20ELMALLAH-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<br><br>
+
 <a href="https://discord.com/users/1244173336653598868">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+<img src="https://img.shields.io/badge/Discord-OMAR-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
 <a href="https://steamcommunity.com/profiles/76561198761964727">
-<img src="https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white"/>
+<img src="https://img.shields.io/badge/Steam-OMAR.ELMALLAH2011-171A21?style=for-the-badge&logo=steam&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
+# `16` — 🧭 ROADMAP
+
+```text id="8f2g5m"
+2026
+ │
+ ├── ████████████████████  Build more software
+ │
+ ├── █████████████████░░░  Explore AI deeper
+ │
+ ├── ████████████████░░░░  Improve full-stack skills
+ │
+ ├── ███████████████░░░░░  Build bigger projects
+ │
+ └── ██████████████░░░░░░  Keep experimenting
+```
+
+---
+
+# `17` — 💡 PRINCIPLES
+
 <div align="center">
 
-# `BUILD • LEARN • REPEAT`
+> **Build things you actually want to use.**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=900&color=64748B&center=true&vCenter=true&width=650&lines=Thanks+for+visiting.;See+you+in+the+next+commit."/>
+> **Learn by doing, not just watching.**
+
+> **Good software is engineered, not decorated.**
+
+> **If something can be improved, improve it.**
+
+</div>
+
+---
+
+# `18` — 🚀 FINAL BUILD
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=1800&pause=600&color=22D3EE&center=true&vCenter=true&width=850&lines=IDEA+%E2%86%92+CODE+%E2%86%92+DEBUG+%E2%86%92+SHIP;THE+LAB+NEVER+CLOSES."/>
 
 <br><br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:06B6D4,30:075985,55:0B3550,75:071A2D,100:020617&section=footer&animation=twinkling"/>
+### Thanks for visiting my profile.
+
+### See you in the next commit.
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:22D3EE,25:0891B2,50:075985,75:071A2D,100:020617&section=footer&animation=twinkling"/>
 
 </div>
