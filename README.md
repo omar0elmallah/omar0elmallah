@@ -156,26 +156,29 @@ Building things that are actually useful
 
 <table width="100%">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔹 Project Name
-Short one-line description of what this project does and the problem it solves.
+### 🔹 RACOON-Office
 
-**Stack:** `Tech` `Tech` `Tech`
+🦝 A modern, interactive workspace built to bring productivity tools together in one place.
+
+**Stack:** `HTML` `CSS` `JavaScript`  
 **Status:** `In development`
 
-<a href="https://github.com/omar0elmallah">View Repository →</a>
+<a href="https://racoon-office.vercel.app/">View Project →</a>
 
 </td>
-<td width="50%">
 
-### 🔹 Project Name
-Short one-line description of what this project does and the problem it solves.
+<td width="50%" valign="top">
 
-**Stack:** `Tech` `Tech` `Tech`
+### 🔹 R-AKUN AI
+
+🤖 An AI-powered project focused on intelligent tools and a modern interactive experience.
+
+**Stack:** `AI` `JavaScript` `Web`  
 **Status:** `In development`
 
-<a href="https://github.com/omar0elmallah">View Repository →</a>
+<a href="https://r-akun.vercel.app/">View Project →</a>
 
 </td>
 </tr>
