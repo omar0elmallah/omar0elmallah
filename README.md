@@ -1,24 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,25:061b35,50:003b5c,75:006d8f,100:00bfff&text=OMAR%20ELMALLAH&fontColor=ffffff&fontSize=48&fontAlignY=38&animation=twinkling&desc=BUILDING%20SOFTWARE%20%7C%20AI%20%7C%20WEB&descAlignY=58&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:000000,20:0B1020,45:111827,70:0B3B5A,100:00BFFF&text=OMAR%20ELMALLAH&fontSize=52&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=SOFTWARE%20DEVELOPER%20%E2%80%A2%20AI%20%E2%80%A2%20FULL-STACK&descAlignY=59&descSize=17"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2200&pause=650&color=00D9FF&center=true&vCenter=true&width=850&lines=Software+Developer;Python+%7C+AI+%7C+Full-Stack;Building+Racoon+%F0%9F%A6%9D;Turning+Ideas+Into+Products;Experimenting+Without+Limits;Build+%E2%86%92+Break+%E2%86%92+Fix+%E2%86%92+Repeat"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2200&pause=650&color=00D9FF&center=true&vCenter=true&width=900&lines=Building+software+from+zero.;Python+%7C+AI+%7C+Web+%7C+Systems;Turning+ideas+into+working+products.;Engineering%2C+experimenting%2C+iterating.;There+is+always+something+new+to+build."/>
 
 <br><br>
 
-<a href="https://racoon-office.vercel.app/">
-<img src="https://img.shields.io/badge/🦝%20RACOON%20OFFICE-LIVE-00BFFF?style=for-the-badge&labelColor=050505"/>
+<a href="https://github.com/omar0elmallah">
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
-
-<a href="https://r-akun.vercel.app/">
-<img src="https://img.shields.io/badge/🤖%20R--AKUN-LIVE-7C3AED?style=for-the-badge&labelColor=050505"/>
+&nbsp;
+<a href="mailto:omar.elmallah2011@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=omar0elmallah&style=for-the-badge&color=00bfff&label=VISITORS"/>
+<img src="https://komarev.com/ghpvc/?username=omar0elmallah&style=for-the-badge&color=00BFFF&label=PROFILE%20VIEWS"/>
 
 </div>
 
@@ -26,149 +26,112 @@
 
 <div align="center">
 
-# `01 / PROFILE`
+## `OMAR / DEVELOPER PROFILE`
 
-### 👋 Hey, I'm Omar.
-
-**Software Developer from Egypt** building things across **Python, AI, Web Development, Automation and Software Engineering**.
-
-I like taking an idea from:
-
-`💡 Idea` → `⚙️ Build` → `💥 Break` → `🔧 Fix` → `🚀 Ship`
+**I build software, explore AI, and turn ideas into real projects.**
 
 <br>
-
-> I don't really have one box.
->
-> I build whatever the idea needs.
-
-</div>
-
----
-
-# ⚡ NOW BUILDING
 
 <table>
 <tr>
+<td align="center" width="180">
 
-<td width="50%" valign="top">
+### `01`
 
-<div align="center">
-
-## 🦝 RACOON OFFICE
-
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-00FF9C?style=for-the-badge&labelColor=050505"/>
-
-<br><br>
-
-**A major current project and the main focus of the Racoon ecosystem.**
-
-<br><br>
-
-<a href="https://racoon-office.vercel.app/">
-<img src="https://img.shields.io/badge/OPEN%20RACOON%20OFFICE-00BFFF?style=for-the-badge&labelColor=050505"/>
-</a>
-
-</div>
+**BUILD**
 
 </td>
+<td align="center" width="180">
 
-<td width="50%" valign="top">
+### `02`
 
-<div align="center">
-
-## 🤖 R-AKUN
-
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-00FF9C?style=for-the-badge&labelColor=050505"/>
-
-<br><br>
-
-**AI-focused project and part of the current Racoon ecosystem.**
-
-<br><br>
-
-<a href="https://r-akun.vercel.app/">
-<img src="https://img.shields.io/badge/OPEN%20R--AKUN-7C3AED?style=for-the-badge&labelColor=050505"/>
-</a>
-
-</div>
+**EXPERIMENT**
 
 </td>
+<td align="center" width="180">
 
+### `03`
+
+**ENGINEER**
+
+</td>
+<td align="center" width="180">
+
+### `04`
+
+**SHIP**
+
+</td>
 </tr>
 </table>
 
-<br>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=1000&color=8B9BB4&center=true&vCenter=true&width=700&lines=Two+projects.+One+ecosystem.;Building+the+Racoon+stack.;More+coming." />
-
 </div>
 
 ---
 
-# 🧩 PROJECT LAB
+# ⚡ ABOUT
 
-Not everything I build belongs to the same category.
+I'm **Omar Elmallah**, a developer from Egypt interested in software engineering, artificial intelligence, web development, automation, and building products.
 
-That's the fun part.
+I don't like staying inside one technology.
 
-<div align="center">
+I prefer understanding the problem first, then choosing the tools that make sense.
 
-### 🦝 RAC00N ECOSYSTEM
-
-`Racoon Office` · `R-AKUN`
-
-### 🏗️ PRODUCTS & PLATFORMS
-
-`TAMING` · `TAOSP`
-
-### 🤖 AI & EXPERIMENTS
-
-`Nexus` · `AI Tools` · `Machine Learning`
-
-### 🌐 WEB PROJECTS
-
-`FC Mobile Fans` · `Developer Platforms` · `Web Apps`
-
-### 📊 DATA
-
-`Data Analysis` · `Data Cleaning` · `SQL` · `Python`
-
-</div>
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                         CURRENT MINDSET                       │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│   IDEA                                                       │
+│    │                                                         │
+│    ▼                                                         │
+│   DESIGN ───────► BUILD ───────► TEST                       │
+│                                  │                           │
+│                                  ▼                           │
+│                               IMPROVE                        │
+│                                  │                           │
+│                                  └──────────► SHIP            │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
 
 ---
 
-# 🦝 RAC00N ECOSYSTEM
+# 🚀 SELECTED WORK
+
+<div align="center">
 
 <table>
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🦝 Racoon Office
+## 🦝 Racoon Office
 
-**Current flagship project**
+**Current project**
 
-`Web` `Software` `Productivity`
+A live project I'm actively developing.
+
+<br>
 
 <a href="https://racoon-office.vercel.app/">
-→ Visit Project
+<img src="https://img.shields.io/badge/OPEN%20LIVE%20PROJECT-00BFFF?style=for-the-badge&labelColor=050505"/>
 </a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 R-AKUN
+## R-AKUN
 
-**AI-focused project**
+**Current project**
 
-`AI` `Web` `Python`
+Another active project in my current development work.
+
+<br>
 
 <a href="https://r-akun.vercel.app/">
-→ Visit Project
+<img src="https://img.shields.io/badge/OPEN%20LIVE%20PROJECT-7C3AED?style=for-the-badge&labelColor=050505"/>
 </a>
 
 </td>
@@ -176,34 +139,40 @@ That's the fun part.
 </tr>
 </table>
 
----
+</div>
 
-# 🏗️ OTHER BUILDS
+<br>
+
+<div align="center">
+
+### More projects, experiments and software
+
+</div>
 
 <table>
 <tr>
+
+<td width="33%" valign="top">
+
+### 🧰 DoVertor
+
+Desktop software and file-processing development.
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🤖 Nexus AI
+
+AI-focused software and intelligent-system experimentation.
+
+</td>
 
 <td width="33%" valign="top">
 
 ### 🏢 TAMING
 
-The broader technology umbrella behind several software ideas and products.
-
-</td>
-
-<td width="33%" valign="top">
-
-### 🧠 Nexus
-
-AI-focused experimentation and software development.
-
-</td>
-
-<td width="33%" valign="top">
-
-### 🖥️ TAOSP
-
-Operating-system / software experimentation and development.
+A broader technology/product ecosystem and collection of software ideas.
 
 </td>
 
@@ -213,17 +182,17 @@ Operating-system / software experimentation and development.
 
 <td width="33%" valign="top">
 
-### 🎮 FC Mobile Fans
+### ⚙️ TAOSP
 
-Web project focused on the FC Mobile community and interactive experiences.
+Operating-system and low-level software experimentation.
 
 </td>
 
 <td width="33%" valign="top">
 
-### 🧪 AI Experiments
+### 🎮 FC Mobile Fans
 
-Small AI systems, model integrations, automation and experimental projects.
+Web development, interactive experiences and community-oriented experiments.
 
 </td>
 
@@ -231,93 +200,128 @@ Small AI systems, model integrations, automation and experimental projects.
 
 ### 📊 Data Projects
 
-Python, SQL, data cleaning, analysis and visualization projects.
+Python, SQL, data cleaning, analysis and visualization.
 
 </td>
 
 </tr>
+
 </table>
 
 ---
 
-# 🧰 THE STACK
+# 🧠 AREAS OF INTEREST
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-00D9FF?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/MACHINE%20LEARNING-7C3AED?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/SOFTWARE%20ENGINEERING-0EA5E9?style=for-the-badge&labelColor=050505"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/FULL--STACK-06B6D4?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/AUTOMATION-10B981?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/DATA-8B5CF6?style=for-the-badge&labelColor=050505"/>
+
+</div>
+
+---
+
+# 🛠️ TECHNOLOGY
 
 <div align="center">
 
 ### LANGUAGES
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,c,cpp,bash" />
+<img src="https://skillicons.dev/icons?i=python,js,html,css,c,cpp,bash"/>
 
 <br><br>
 
-### WEB
+### WEB & BACKEND
 
-<img src="https://skillicons.dev/icons?i=flask,nodejs,react,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=flask,nodejs,react,tailwind,bootstrap"/>
 
 <br><br>
 
-### AI / DATA
+### AI & DATA
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
 
-<br>
+<br><br>
 
-`NumPy` · `Pandas` · `Matplotlib` · `Scikit-Learn` · `Transformers`
+`NumPy`   `Pandas`   `Matplotlib`   `Scikit-Learn`   `Transformers`
 
 <br><br>
 
 ### DATABASES
 
-<img src="https://skillicons.dev/icons?i=firebase,mysql,sqlite,mongodb" />
+<img src="https://skillicons.dev/icons?i=firebase,mysql,sqlite,mongodb"/>
 
 <br><br>
 
-### TOOLS
+### DEVELOPMENT ENVIRONMENT
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,windows,docker,figma,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,windows,docker,figma,postman"/>
 
 </div>
 
 ---
 
-# 🧠 WHAT I'M INTO
+# ⚙️ ENGINEERING PROFILE
 
 <table>
 <tr>
 
-<td>
+<td width="25%" align="center">
 
-### 🤖 Artificial Intelligence
+### 🐍
 
-AI assistants, intelligent tools, machine learning and model integrations.
+**PYTHON**
 
-</td>
-
-<td>
-
-### 🐍 Python
-
-Applications, automation, data processing and experimentation.
+Applications
+Automation
+AI
+Data
 
 </td>
 
-</tr>
+<td width="25%" align="center">
 
-<tr>
+### 🌐
 
-<td>
+**WEB**
 
-### 🌐 Web Engineering
-
-Full-stack applications, interfaces, APIs and interactive experiences.
+Frontend
+Backend
+APIs
+Interfaces
 
 </td>
 
-<td>
+<td width="25%" align="center">
 
-### ⚙️ Software Engineering
+### 🤖
 
-Building, debugging, optimizing and turning ideas into usable software.
+**AI**
+
+Models
+APIs
+ML
+Experiments
+
+</td>
+
+<td width="25%" align="center">
+
+### ⚡
+
+**SYSTEMS**
+
+Tools
+Optimization
+Debugging
+Experiments
 
 </td>
 
@@ -328,30 +332,23 @@ Building, debugging, optimizing and turning ideas into usable software.
 
 <div align="center">
 
-# 🎮 `DEV_MODE`
+# `CURRENTLY BUILDING`
 
-```text
-┌──────────────────────────────────────────────────────┐
-│                  OMAR.EXE                            │
-├──────────────────────────────────────────────────────┤
-│                                                      │
-│  [✓] IDEA ENGINE          ONLINE                    │
-│  [✓] PYTHON               ONLINE                    │
-│  [✓] AI LAB               ONLINE                    │
-│  [✓] WEB ENGINE           ONLINE                    │
-│  [✓] DEBUGGER             ANGRY                     │
-│  [✓] COFFEE               REQUIRED                  │
-│                                                      │
-│  CURRENT TARGET:  RACOON                             │
-│                                                      │
-└──────────────────────────────────────────────────────┘
-```
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2600&pause=900&color=8B9BB4&center=true&vCenter=true&width=800&lines=New+software.;New+experiments.;Better+architecture.;Better+interfaces.;More+things+to+break."
+
+<br><br>
+
+<img src="https://progress-bar.dev/88/?title=curiosity&width=500"/>
+<br>
+<img src="https://progress-bar.dev/76/?title=building&width=500"/>
+<br>
+<img src="https://progress-bar.dev/100/?title=learning&width=500"/>
 
 </div>
 
 ---
 
-# 📊 GITHUB COMMAND CENTER
+# 📊 GITHUB PERFORMANCE
 
 <div align="center">
 
@@ -367,7 +364,7 @@ Building, debugging, optimizing and turning ideas into usable software.
 
 ---
 
-# 🐍 CONTRIBUTION GRID
+# 🐍 CONTRIBUTION MATRIX
 
 <div align="center">
 
@@ -377,26 +374,114 @@ Building, debugging, optimizing and turning ideas into usable software.
 
 ---
 
-# 📈 ACTIVITY
+# 📈 DEVELOPMENT ACTIVITY
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=omar0elmallah&theme=tokyo-night&hide_border=true&area=true"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=omar0elmallah&theme=tokyo-night&hide_border=true&area=true&custom_title=OMAR%20ELMALLAH%20%E2%80%94%20DEVELOPMENT%20ACTIVITY"/>
 
 </div>
 
 ---
 
-# 🌱 CURRENTLY EXPLORING
+# 🧪 EXPERIMENTATION
+
+```text
+┌──────────────────────────────────────────────────────────────────┐
+│                                                                  │
+│   AI              ████████████████████████░░░░                   │
+│   WEB             ███████████████████████████░                   │
+│   PYTHON          ████████████████████████████                   │
+│   DATA            ███████████████████░░░░░░░░                   │
+│   SYSTEMS         █████████████████░░░░░░░░░                   │
+│   AUTOMATION      █████████████████████░░░░░░                   │
+│                                                                  │
+└──────────────────────────────────────────────────────────────────┘
+```
+
+*These bars are visual only — not fake metrics.*
+
+---
+
+# 🔬 THINGS I LIKE BUILDING
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-00BFFF?style=for-the-badge&labelColor=050505"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-7C3AED?style=for-the-badge&labelColor=050505"/>
-<img src="https://img.shields.io/badge/Full--Stack-00D9FF?style=for-the-badge&labelColor=050505"/>
-<img src="https://img.shields.io/badge/Automation-00FF9C?style=for-the-badge&labelColor=050505"/>
-<img src="https://img.shields.io/badge/Software%20Engineering-FFB000?style=for-the-badge&labelColor=050505"/>
-<img src="https://img.shields.io/badge/Developer%20Tools-FF4D6D?style=for-the-badge&labelColor=050505"/>
+<table>
+<tr>
+
+<td align="center">
+
+**DESKTOP SOFTWARE**
+
+Tools that solve annoying problems.
+
+</td>
+
+<td align="center">
+
+**AI SYSTEMS**
+
+Experiments with intelligent software.
+
+</td>
+
+<td align="center">
+
+**WEB APPS**
+
+Interfaces that feel like products.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+**AUTOMATION**
+
+Making repetitive work disappear.
+
+</td>
+
+<td align="center">
+
+**DATA**
+
+Cleaning → analyzing → understanding.
+
+</td>
+
+<td align="center">
+
+**EXPERIMENTS**
+
+Trying ideas just to see how far they go.
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# 🧩 DEVELOPMENT PHILOSOPHY
+
+<div align="center">
+
+### SIMPLE ENOUGH TO UNDERSTAND.
+
+### POWERFUL ENOUGH TO BUILD.
+
+### FLEXIBLE ENOUGH TO EVOLVE.
+
+<br>
+
+`Learn → Build → Break → Debug → Improve → Ship`
 
 </div>
 
@@ -407,12 +492,16 @@ Building, debugging, optimizing and turning ideas into usable software.
 <div align="center">
 
 <a href="https://github.com/omar0elmallah">
-<img src="https://img.shields.io/badge/GitHub-OMAR0ELMALLAH-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GITHUB-OMAR0ELMALLAH-000000?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="mailto:omar.elmallah2011@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-OMAR.ELMALLAH2011%40GMAIL.COM-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=64748B&center=true&vCenter=true&width=700&lines=Thanks+for+visiting.;Now+go+build+something."
 
 </div>
 
@@ -420,10 +509,6 @@ Building, debugging, optimizing and turning ideas into usable software.
 
 <div align="center">
 
-### `BUILD SOMETHING. BREAK SOMETHING. LEARN SOMETHING.`
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,35:006D8F,70:003B5C,100:020617&height=150&section=footer&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:00BFFF,30:006D8F,60:111827,100:000000&section=footer&animation=twinkling"/>
 
 </div>
