@@ -1,75 +1,97 @@
 <div align="center">
 
-# 👋 Hey, I'm Omar
+# Omar Elmallah
 
-### 💻 Full-Stack Developer • 🤖 AI Engineer • 🐍 Python Developer
+### Software Developer · Python · AI · Full-Stack
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=700&lines=Building+Creative+Software.;Python+%7C+AI+%7C+Web+Development.;Turning+Ideas+Into+Reality.;Always+Learning+%26+Improving." />
+Building practical software, experimenting with AI, and turning ideas into real products.
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=omar0elmallah&label=Profile%20Views&style=for-the-badge&color=blue" />
+<a href="https://github.com/omar0elmallah">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:omar.elmallah2011@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=900&color=00BFFF&center=true&vCenter=true&width=700&lines=Building+Software+That+Solves+Problems.;Python+%7C+AI+%7C+Web+Development;Learning%2C+Building%2C+Improving.;Turning+Ideas+Into+Products." />
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=omar0elmallah&label=Profile%20Views&style=flat-square&color=00BFFF" />
 
 </div>
 
 ---
 
-## 🧠 About Me
+## 👋 About Me
 
-```yaml
-name: Omar
-role: Developer
-location: Egypt
+I'm **Omar**, a developer from Egypt interested in software development, artificial intelligence, and building useful digital products.
 
-focus:
-  - Artificial Intelligence
-  - Software Development
-  - Web Applications
-  - Automation
+I enjoy taking an idea from a simple concept and turning it into something that actually works — from desktop applications and web platforms to AI-powered tools.
 
-currently:
-  - Building useful tools
-  - Learning new technologies
-  - Exploring AI systems
-```
+### What I care about
+
+* 🧠 Learning how things work under the hood
+* 🐍 Building with Python
+* 🤖 Exploring AI and machine learning
+* 🌐 Creating full-stack web applications
+* ⚙️ Automating repetitive tasks
+* 🛠️ Improving performance, usability, and reliability
+* 🚀 Turning experiments into real projects
 
 ---
 
-# 🛠️ Tech Stack
+## 🚀 What I'm Building
 
-## 👨‍💻 Programming Languages
+My projects usually fall into a few areas:
+
+**Software Development**
+Desktop applications, utilities, automation tools, and developer-focused software.
+
+**Artificial Intelligence**
+AI assistants, intelligent utilities, machine learning experiments, and model integrations.
+
+**Web Development**
+Modern web applications with authentication, databases, APIs, and responsive interfaces.
+
+**Data & Automation**
+Data processing, analysis, automation, and tools designed to simplify repetitive workflows.
+
+---
+
+# 🧰 Tech Stack
+
+### Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,js,html,css,c,cpp,bash" />
 </p>
 
-## 🌐 Web Development
+### Web & Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=flask,nodejs,bootstrap,tailwind,react" />
+<img src="https://skillicons.dev/icons?i=flask,nodejs,react,tailwind,bootstrap" />
 </p>
 
-## 🗄️ Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=firebase,mysql,sqlite,mongodb" />
-</p>
-
-## 🤖 AI & Data Science
+### AI & Data
 
 <p>
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 </p>
 
-* NumPy
-* Pandas
-* Matplotlib
-* Scikit-Learn
-* Transformers
-* Computer Vision
-* Machine Learning
+`NumPy` · `Pandas` · `Matplotlib` · `Scikit-Learn` · `Transformers` · `Computer Vision`
 
-## ⚙️ Tools & Environment
+### Databases & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=firebase,mysql,sqlite,mongodb" />
+</p>
+
+### Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,windows,docker,figma,postman" />
@@ -77,73 +99,65 @@ currently:
 
 ---
 
-# 🚀 Featured Projects
+# ⭐ Selected Projects
 
-### 🔥 DoVertor
+## 🔥 DoVertor
 
-> Modern file conversion software with a clean user experience.
+A desktop file-conversion application focused on making common conversion workflows simple and accessible.
 
-### 🤖 Nexus AI
-
-> AI assistant and intelligent tools powered by modern models.
-
-### 🔐 Tamic Account
-
-> Authentication system and account management platform.
-
-### 🌐 DevHub
-
-> Developer-focused platform and useful resources.
+**Focus:** File Processing · Desktop Software · Automation
 
 ---
 
-# 📊 GitHub Analytics
+## 🤖 Nexus AI
+
+An AI-focused project exploring assistant-style interactions and intelligent software features.
+
+**Focus:** AI · APIs · Python · Intelligent Tools
+
+---
+
+## 🔐 Tamic Account
+
+An authentication and account-management system designed as part of a broader software ecosystem.
+
+**Focus:** Authentication · User Management · Web Development
+
+---
+
+## 🌐 DevHub
+
+A developer-oriented platform focused on useful tools, resources, and software-related functionality.
+
+**Focus:** Web Development · Developer Tools · Platform Development
+
+---
+
+# 📊 GitHub Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=omar0elmallah&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=omar0elmallah&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar0elmallah&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar0elmallah&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=omar0elmallah&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-# 🔥 Contribution Streak
+# 🐍 Contribution Activity
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=omar0elmallah&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=omar0elmallah&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/omar0elmallah/omar0elmallah/output/github-contribution-grid-snake.svg"/>
-
-</div>
-
----
-
-# 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=omar0elmallah&theme=tokyo-night&hide_border=true"/>
+<img src="https://raw.githubusercontent.com/omar0elmallah/omar0elmallah/output/github-contribution-grid-snake.svg" />
 
 </div>
 
@@ -151,21 +165,28 @@ currently:
 
 # 🌱 Currently Exploring
 
-* 🤖 Artificial Intelligence
-* 🧠 Machine Learning
-* 🕸️ Full-Stack Architecture
-* ☁️ Cloud Computing
-* 🔐 Cybersecurity
-* ⚡ Software Engineering
+```text
+Artificial Intelligence
+Machine Learning
+Full-Stack Architecture
+Software Engineering
+Cloud Technologies
+Developer Tooling
+Automation
+```
 
 ---
 
-# 📫 Connect
+# 📫 Let's Connect
 
 <div align="center">
 
 <a href="https://github.com/omar0elmallah">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="mailto:omar.elmallah2011@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
@@ -174,8 +195,8 @@ currently:
 
 <div align="center">
 
-## ⭐ Thanks For Visiting My Profile
+### Building. Learning. Improving.
 
-### 💻 Code • 🚀 Build • 🧠 Learn
+*Thanks for stopping by.*
 
 </div>
