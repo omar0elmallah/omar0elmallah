@@ -1,97 +1,134 @@
 <div align="center">
 
-# Omar Elmallah
-
-### Software Developer · Python · AI · Full-Stack
-
-Building practical software, experimenting with AI, and turning ideas into real products.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:001f3f,100:00bfff&height=180&section=header&text=OMAR%20ELMALLAH&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=Software%20Developer%20%7C%20AI%20%7C%20Full-Stack&descAlignY=55&descSize=18" />
 
 <br>
 
 <a href="https://github.com/omar0elmallah">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="mailto:omar.elmallah2011@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=EA4335" />
 </a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=900&color=00BFFF&center=true&vCenter=true&width=700&lines=Building+Software+That+Solves+Problems.;Python+%7C+AI+%7C+Web+Development;Learning%2C+Building%2C+Improving.;Turning+Ideas+Into+Products." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=700&color=00BFFF&center=true&vCenter=true&width=850&lines=I+build+things+that+actually+work.;Python+%7C+AI+%7C+Web+Development;Turning+ideas+into+software.;Experimenting.+Building.+Breaking.+Fixing.;Welcome+to+my+little+corner+of+GitHub." />
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=omar0elmallah&label=Profile%20Views&style=flat-square&color=00BFFF" />
+<img src="https://komarev.com/ghpvc/?username=omar0elmallah&style=for-the-badge&color=00bfff&label=PROFILE+VIEWS" />
 
 </div>
 
 ---
 
-## 👋 About Me
+<div align="center">
 
-I'm **Omar**, a developer from Egypt interested in software development, artificial intelligence, and building useful digital products.
+## `> whoami`
 
-I enjoy taking an idea from a simple concept and turning it into something that actually works — from desktop applications and web platforms to AI-powered tools.
+</div>
 
-### What I care about
+```text
+╭──────────────────────────────────────────────────────────────╮
+│                                                              │
+│   Omar Elmallah                                               │
+│   ─────────────                                               │
+│                                                              │
+│   Software Developer                                          │
+│   Python • AI • Full-Stack • Automation                       │
+│                                                              │
+│   📍 Egypt                                                    │
+│   🧠 Always learning                                          │
+│   ⚙️ Building software                                        │
+│   🚀 Turning ideas into products                              │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
+```
 
-* 🧠 Learning how things work under the hood
-* 🐍 Building with Python
-* 🤖 Exploring AI and machine learning
-* 🌐 Creating full-stack web applications
-* ⚙️ Automating repetitive tasks
-* 🛠️ Improving performance, usability, and reliability
-* 🚀 Turning experiments into real projects
+I like building software from the ground up — experimenting with ideas, designing interfaces, writing code, breaking things, fixing them, and eventually turning them into something useful.
 
----
-
-## 🚀 What I'm Building
-
-My projects usually fall into a few areas:
-
-**Software Development**
-Desktop applications, utilities, automation tools, and developer-focused software.
-
-**Artificial Intelligence**
-AI assistants, intelligent utilities, machine learning experiments, and model integrations.
-
-**Web Development**
-Modern web applications with authentication, databases, APIs, and responsive interfaces.
-
-**Data & Automation**
-Data processing, analysis, automation, and tools designed to simplify repetitive workflows.
+My main interests are **Python, Artificial Intelligence, Web Development, automation, and software engineering**.
 
 ---
 
-# 🧰 Tech Stack
+<div align="center">
 
-### Languages
+# ⚡ CURRENTLY BUILDING
+
+<img src="https://img.shields.io/badge/PROJECT-RACOON%20OFFICE-00BFFF?style=for-the-badge&logo=vercel&logoColor=white" />
+
+<br><br>
+
+### 🦝 Racoon Office
+
+A current project I'm actively building and improving.
+
+<a href="https://racoon-office.vercel.app/">
+<img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-00BFFF?style=for-the-badge&labelColor=050505" />
+</a>
+
+<a href="https://r-akun.vercel.app/">
+<img src="https://img.shields.io/badge/🌐%20R--AKUN-7C3AED?style=for-the-badge&labelColor=050505" />
+</a>
+
+</div>
+
+---
+
+# 🧪 My Playground
+
+> Not everything here is supposed to be serious.
+
+Sometimes I build useful software.
+
+Sometimes I experiment with AI.
+
+Sometimes I spend three hours fixing a bug caused by one missing character.
+
+Sometimes I just make something because I thought:
+
+```text
+"wait... can I actually build that?"
+```
+
+And then I do.
+
+---
+
+# 🛠️ TECHNOLOGY
+
+### 💻 Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,js,html,css,c,cpp,bash" />
 </p>
 
-### Web & Backend
+### 🌐 Web
 
 <p>
 <img src="https://skillicons.dev/icons?i=flask,nodejs,react,tailwind,bootstrap" />
 </p>
 
-### AI & Data
+### 🤖 AI / Data
 
 <p>
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 </p>
 
-`NumPy` · `Pandas` · `Matplotlib` · `Scikit-Learn` · `Transformers` · `Computer Vision`
+<p>
 
-### Databases & Cloud
+`NumPy` · `Pandas` · `Matplotlib` · `Scikit-Learn` · `Transformers`
+
+</p>
+
+### 🗄️ Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=firebase,mysql,sqlite,mongodb" />
 </p>
 
-### Tools
+### ⚙️ Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,windows,docker,figma,postman" />
@@ -99,61 +136,150 @@ Data processing, analysis, automation, and tools designed to simplify repetitive
 
 ---
 
-# ⭐ Selected Projects
-
-## 🔥 DoVertor
-
-A desktop file-conversion application focused on making common conversion workflows simple and accessible.
-
-**Focus:** File Processing · Desktop Software · Automation
-
----
-
-## 🤖 Nexus AI
-
-An AI-focused project exploring assistant-style interactions and intelligent software features.
-
-**Focus:** AI · APIs · Python · Intelligent Tools
-
----
-
-## 🔐 Tamic Account
-
-An authentication and account-management system designed as part of a broader software ecosystem.
-
-**Focus:** Authentication · User Management · Web Development
-
----
-
-## 🌐 DevHub
-
-A developer-oriented platform focused on useful tools, resources, and software-related functionality.
-
-**Focus:** Web Development · Developer Tools · Platform Development
-
----
-
-# 📊 GitHub Activity
+# 🦝 RACCOON MODE
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=omar0elmallah&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+```text
+        /\_/\\
+       ( o.o )
+        > ^ <
+      RACCOON MODE
+```
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar0elmallah&layout=compact&theme=tokyonight&hide_border=true" />
+### `STATUS: BUILDING`
 
-</div>
+<img src="https://progress-bar.dev/85/?title=coffee&width=500" />
 
 <br>
 
-<div align="center">
+<img src="https://progress-bar.dev/72/?title=coding&width=500" />
 
-<img src="https://streak-stats.demolab.com?user=omar0elmallah&theme=tokyonight&hide_border=true" />
+<br>
+
+<img src="https://progress-bar.dev/94/?title=curiosity&width=500" />
 
 </div>
 
 ---
 
-# 🐍 Contribution Activity
+# 🎮 MINI GAME
+
+<div align="center">
+
+### 🦝 Catch the Raccoon
+
+**Click the raccoon to enter the playground.**
+
+<a href="https://r-akun.vercel.app/">
+
+<svg width="500" height="180" viewBox="0 0 500 180" xmlns="http://www.w3.org/2000/svg">
+
+<rect width="500" height="180" rx="20" fill="#050505"/>
+
+<rect x="20" y="20" width="460" height="140" rx="14"
+fill="none" stroke="#00BFFF" stroke-width="2"/>
+
+<text x="250" y="48"
+text-anchor="middle"
+fill="#00BFFF"
+font-family="monospace"
+font-size="15">
+RACOON ARCADE </text>
+
+<text x="250" y="78"
+text-anchor="middle"
+fill="white"
+font-family="monospace"
+font-size="12">
+MISSION: FIND THE RACCOON </text>
+
+<text x="250" y="125"
+text-anchor="middle"
+font-size="45">
+🦝 </text>
+
+<text x="250" y="150"
+text-anchor="middle"
+fill="#888"
+font-family="monospace"
+font-size="10">
+CLICK TO PLAY </text>
+
+</svg>
+
+</a>
+
+<br>
+
+<sub>⚠️ The actual interactive game lives outside the README — GitHub doesn't allow JavaScript games directly inside profile READMEs.</sub>
+
+</div>
+
+---
+
+# 🚀 PROJECTS
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🦝 Racoon Office</h3>
+
+<p>
+My current software project.
+</p>
+
+<a href="https://racoon-office.vercel.app/">
+<img src="https://img.shields.io/badge/OPEN%20PROJECT-00BFFF?style=for-the-badge&labelColor=050505" />
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>⚡ R-AKUN</h3>
+
+<p>
+Another part of the current Racoon ecosystem.
+</p>
+
+<a href="https://r-akun.vercel.app/">
+<img src="https://img.shields.io/badge/VISIT-7C3AED?style=for-the-badge&labelColor=050505" />
+</a>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# 📊 GITHUB
+
+<div align="center">
+
+<img height="180"
+src="https://github-readme-stats.vercel.app/api?username=omar0elmallah&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
+
+<img height="180"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar0elmallah&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br><br>
+
+<img
+src="https://streak-stats.demolab.com?user=omar0elmallah&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🐍 CONTRIBUTION SNAKE
 
 <div align="center">
 
@@ -163,31 +289,65 @@ A developer-oriented platform focused on useful tools, resources, and software-r
 
 ---
 
-# 🌱 Currently Exploring
-
-```text
-Artificial Intelligence
-Machine Learning
-Full-Stack Architecture
-Software Engineering
-Cloud Technologies
-Developer Tooling
-Automation
-```
-
----
-
-# 📫 Let's Connect
+# 📈 ACTIVITY
 
 <div align="center">
 
-<a href="https://github.com/omar0elmallah">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=omar0elmallah&theme=tokyo-night&hide_border=true&area=true" />
 
-<a href="mailto:omar.elmallah2011@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+</div>
+
+---
+
+# 🧠 CURRENTLY EXPLORING
+
+<div align="center">
+
+`Artificial Intelligence`
+
+`Machine Learning`
+
+`Full-Stack Development`
+
+`Software Architecture`
+
+`Automation`
+
+`Developer Tools`
+
+`Modern Web Technologies`
+
+</div>
+
+---
+
+# 🔥 THE BUILD LOOP
+
+<div align="center">
+
+```text
+       ┌──────────────┐
+       │    IDEA      │
+       └──────┬───────┘
+              ↓
+       ┌──────────────┐
+       │    BUILD     │
+       └──────┬───────┘
+              ↓
+       ┌──────────────┐
+       │    BREAK     │
+       └──────┬───────┘
+              ↓
+       ┌──────────────┐
+       │    DEBUG     │
+       └──────┬───────┘
+              ↓
+       ┌──────────────┐
+       │   IMPROVE    │
+       └──────┬───────┘
+              │
+              └──────────→ REPEAT
+```
 
 </div>
 
@@ -195,8 +355,10 @@ Automation
 
 <div align="center">
 
-### Building. Learning. Improving.
+# `> echo "keep building"`
 
-*Thanks for stopping by.*
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfff,50:001f3f,100:050505&height=120&section=footer&animation=twinkling" />
 
 </div>
